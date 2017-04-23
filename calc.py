@@ -10,4 +10,7 @@ def divide(x,y):
     return x/y
 
 def square(x):
-    pass
+    return x ** 2
+
+def Print(x):
+    print(x)
